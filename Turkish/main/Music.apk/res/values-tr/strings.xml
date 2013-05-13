@@ -1,30 +1,30 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="add">Add</string>
-  <string name="add_to">Add to</string>
-  <string name="add_to_favorite">Add to Favorites</string>
-  <string name="add_to_playlist">Add to Playlist</string>
-  <string name="add_tracks">Add songs</string>
+  <string name="add">Ekle</string>
+  <string name="add_to">Ekle/string>
+  <string name="add_to_favorite">Favorilerime Ekle</string>
+  <string name="add_to_playlist">Oynatma Listesine Ekle</string>
+  <string name="add_tracks">Müziklerime Ekle</string>
   <string name="album_artist_format" formatted="false">%s , %s</string>
-  <string name="album_display_settings">Display album art</string>
-  <string name="album_display_summary">Display album cover in the player interface</string>
-  <string name="album_download">Download album art</string>
+  <string name="album_display_settings">Albüm Fotoğraflarını Göster</string>
+  <string name="album_display_summary">Albüm Kapağını Kullanıcı Arayüzünde Göster/string>
+  <string name="album_download">Albüm Fotoğrafını İndir</string>
   <string name="album_edit">Album</string>
-  <string name="album_picker_not_found">Gallery application not found on device</string>
-  <string name="album_search_failed">Album art not found!</string>
-  <string name="album_search_local_descript">Local | %1$d x %2$d</string>
+  <string name="album_picker_not_found">Galeri Uygulaması Aygıtınızda Bulunamadı</string>
+  <string name="album_search_failed">Albüm Fotoğrafı Bulunamadı!</string>
+  <string name="album_search_local_descript">Yerel | %1$d x %2$d</string>
   <string name="album_search_online_descript">Online | %1$d x %2$d</string>
-  <string name="album_select">Please select a album art</string>
-  <string name="albums_title">Albums</string>
+  <string name="album_select">Lütfen Albüm Fotoğrafını seçin</string>
+  <string name="albums_title">Albümler</string>
   <string name="albumsongseparator">""</string>
-  <string name="all_tracks">All Songs</string>
-  <string name="android_album_settings">Use embedded album art</string>
+  <string name="all_tracks">Tüm Müzikler</string>
+  <string name="android_album_settings">Varsayılan Albüm Fotoğrafını Kullan</string>
   <string name="android_album_summary">Automatically using the album art from songs may cause errors.</string>
   <string name="artist_albums">All Albums</string>
   <string name="artist_details_format" formatted="false">%1$s, %2$s</string>
-  <string name="artist_edit">Artist</string>
-  <string name="artist_hot_audios">Popular Audio</string>
-  <string name="artists_title">Artists</string>
+  <string name="artist_edit">Sanatçılar</string>
+  <string name="artist_hot_audios">Popüler Müzikler</string>
+  <string name="artists_title">Sanatçılar</string>
   <string name="auto_correct_id3_settings">Autocorrect ID3 Settings</string>
   <string name="auto_correct_id3_summary">Audio fingerprint algorithm will correct ID3 data when playing.</string>
   <string name="batch_correct_id3_completed">Batch ID3 correction complete!</string>
